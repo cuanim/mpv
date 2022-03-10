@@ -1,5 +1,0 @@
-start=18.852000
-pause=yes
-fullscreen=yes
-af=%178%lavfi=graph=%130%pan=stereo|FL < 0.5*FC + 0.3*FLC + 0.3*FL + 0.3*BL + 0.3*SL + 0.5*LFE | FR < 0.5*FC + 0.3*FRC + 0.3*FR + 0.3*BR + 0.3*SR + 0.5*LFE,lavfi=graph=%14%acompressor=10
-sid=1
