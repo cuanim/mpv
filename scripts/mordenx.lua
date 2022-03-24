@@ -45,7 +45,7 @@ local user_opts = {
                                 -- 'exact', 'relative+keyframes', etc.
     title = '${media-title}',   -- string compatible with property-expansion
                                 -- to be shown as OSC title
-    showtitle = false,       -- show title in OSC
+    showtitle = true,       -- show title in OSC
     showonpause = true,         -- whether to disable the hide timeout on pause
     timetotal = true,           -- display total time instead of remaining time?
     timems = false,             -- Display time down to millliseconds by default
